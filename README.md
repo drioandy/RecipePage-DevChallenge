@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://tatranan.github.io/RecipePage-DevChallenge/">
       Demo
     </a>
     <span> | </span>
@@ -41,10 +41,8 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see demo in [here](https://tatranan.github.io/RecipePage-DevChallenge/)
+- Experience that I learn in the challenge is use flex direction, responsive
 
 ### Built With
 
@@ -68,6 +66,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [HTML <input type="checkbox">](https://www.w3schools.com/tags/att_input_type_checkbox.asp)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [How to reuse styles?](https://stackoverflow.com/questions/7261823/how-to-reuse-styles)
+- [Remove height in css](https://stackoverflow.com/questions/44010645/remove-height-auto-using-css)
 
 ## Contact
 
